@@ -26,6 +26,6 @@
     "meteor-promise": "^0.8.2",
     "underscore": "^1.8.3",
     "webdriverio": "^4.14.4",
-    "xolvio-fiber-utils": "git+ssh://github.com:TheBrainFamily/fiber-utils#bump-fibers-version"
+    "xolvio-fiber-utils": "TheBrainFamily/fiber-utils#bump-fibers-version"
   }
 }
